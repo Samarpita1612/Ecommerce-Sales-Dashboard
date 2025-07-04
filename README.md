@@ -32,4 +32,4 @@ ________________________________________
 • Real-time filtering supports agile business decisions
 • Enhanced data clarity and storytelling for stakeholders
 ________________________________________
-6. Screenshot of the project: 
+6. Screenshot of the project: link:[https://github.com/Samarpita1612/Ecommerce-Sales-Dashboard/blob/main/EcommerceSalesDashboardSnapshot.png]
